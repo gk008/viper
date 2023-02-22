@@ -1,4 +1,4 @@
-module github.com/gbunt/viper
+module github.com/gk008/viper
 
 require (
 	github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6 // indirect
